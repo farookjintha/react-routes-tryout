@@ -1,0 +1,17 @@
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.wrapper .user-wrapper{
+    width: 25%;
+    height: 50%;
+    background-color: beige;
+    border-radius: 10px;
+    border: 1px solid orange;
+}
+
+.wrapper .user-wrapper button{
+    margin-bottom: 1em;
+}

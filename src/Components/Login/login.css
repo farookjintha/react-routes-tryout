@@ -1,0 +1,12 @@
+.form-wrapper{
+    width: 30vw;
+    margin: 0 auto;
+}
+
+.form-wrapper .input-wrapper{
+    margin: 1em 0;
+}
+
+.error{
+    color: red;
+}
